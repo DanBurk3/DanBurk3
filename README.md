@@ -5,7 +5,7 @@
 I'm passionate about software development, data-driven solutions, and real-world problem solving.
 I bring strong analytical thinking, people management, and a calm-under-pressure mindset from years in professional kitchens.
 
-🎓 Recent BSc (Hons) Computing and IT graduate from The Open University
+🎓 BSc (Hons) Computing and IT graduate from The Open University
 
 🔧 Former chef with 15+ years of leadership and operations experience
 
